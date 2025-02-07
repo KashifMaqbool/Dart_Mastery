@@ -19,17 +19,19 @@ To run the Dart programs in this repository, ensure you have Dart installed on y
   dart --version
 - Also install the extension of dart if you are using vs code.
   
-🚀 Running the Code
+🚀 Running the Code:<br>
 Navigate to the specific file and execute the following command:
 dart filename.dart
-
-💡 Contribution
+<br>
+<br>
+💡 Contribution:<br>
 Feel free to contribute by adding new concepts, improving code, or fixing issues. Follow these steps to contribute:
 Fork the repository
 Create a new branch (feature-name)
 Commit your changes
 Push to your branch
 Create a Pull Request
+<br>
 <br>
 🏆 Acknowledgments:<br>
 Thanks to the Dart & Flutter community for their incredible resources and support!
