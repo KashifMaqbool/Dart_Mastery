@@ -30,13 +30,13 @@ Create a new branch (feature-name)
 Commit your changes
 Push to your branch
 Create a Pull Request
-
+<br>
 🏆 Acknowledgments:
-<be>
+<br>
 Thanks to the Dart & Flutter community for their incredible resources and support!
-
-📜 License:
+<br>
+📜 License:<br>
 This project is open-source under the MIT License.
-
-🎯 Happy Coding! 🚀:
+<br>
+🎯 Happy Coding! 🚀:<br>
 Let me know if you need any modifications! 🚀
