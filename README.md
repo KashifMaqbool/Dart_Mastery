@@ -31,11 +31,12 @@ Commit your changes
 Push to your branch
 Create a Pull Request
 
-🏆 Acknowledgments
+🏆 Acknowledgments:
+<be>
 Thanks to the Dart & Flutter community for their incredible resources and support!
 
-📜 License
+📜 License:
 This project is open-source under the MIT License.
 
-🎯 Happy Coding! 🚀
+🎯 Happy Coding! 🚀:
 Let me know if you need any modifications! 🚀
