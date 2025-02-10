@@ -2,7 +2,6 @@
 // IntegerDivisionByZeroException is an old exception. You can use these exceptions 
 // instead of it e.g. 1. Exception  2.UnsupportedError
 
-/*
 void main(){
   int a = 10;
   int b = 0;
@@ -15,7 +14,7 @@ void main(){
     print("Number cannot divided by zero");
   }
 }
-*/
+
 
 
 // Taking input from user
