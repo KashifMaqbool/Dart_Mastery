@@ -33,7 +33,6 @@ Contributions are welcome! If you’d like to improve these notes:
 4. **Push** to the branch (`git push origin feature-branch`)  
 5. Open a **Pull Request** 🚀  
 
----
 
 ## 📜 License
 This project is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
@@ -46,7 +45,6 @@ This project is licensed under a **Creative Commons Attribution-NonCommercial 4.
 - **Attribution** — You must give appropriate credit.  
 - **Non-Commercial** — You may not use the material for commercial purposes.  
 
----
 
 ## 🙌 Author
 **KASHIF MAQBOOL JOIYA**  
