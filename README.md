@@ -17,29 +17,44 @@ To run the Dart programs in this repository, ensure you have Dart installed on y
 - Download and install Dart from the [official Dart website](https://dart.dev/get-dart).  
 - Verify installation by running:  
   dart --version
-- Also install the extension of dart if you are using vs code.
+- Also, install Dart if you are using VS Code.
   
-🚀 Running the Code:<br>
+## 🚀 Running the Code:<br>
 Navigate to the specific file and execute the following command:
 dart filename.dart
 <br>
 <br>
-💡 Contribution:<br>
-Feel free to contribute by adding new concepts, improving code, or fixing issues. Follow these steps to contribute:
-Fork the repository
-Create a new branch (feature-name)
-Commit your changes
-Push to your branch
-Create a Pull Request
-<br>
-<br>
-🏆 Acknowledgments:<br>
-Thanks to the Dart & Flutter community for their incredible resources and support!
-<br>
-<br>
-📜 License:<br>
-This project is open-source under the MIT License.
-<br>
-<br>
-🎯 Happy Coding! 🚀:<br>
-Let me know if you need any modifications! 🚀
+
+## 🤝 Contributing
+Contributions are welcome! If you’d like to improve these notes:  
+1. **Fork** this repository  
+2. **Create** a new branch (`git checkout -b feature-branch`)  
+3. **Commit** your changes (`git commit -m "Added new concepts or improvements"`)  
+4. **Push** to the branch (`git push origin feature-branch`)  
+5. Open a **Pull Request** 🚀  
+
+---
+
+## 📜 License
+This project is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+
+✔ You are free to:  
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+⚠ Under the following terms:  
+- **Attribution** — You must give appropriate credit.  
+- **Non-Commercial** — You may not use the material for commercial purposes.  
+
+---
+
+## 🙌 Author
+**KASHIF MAQBOOL JOIYA**  
+🎓 Data Analyst & Data Scientist | Aspiring AI Engineer  
+💻 Passionate about Open Source, Data Science, Big Data, and AI Systems  
+
+🌐 Connect with me:  
+- [GitHub](https://github.com/KashifMaqbool)  
+- [LinkedIn](https://www.linkedin.com/in/kashif-maqbool-joiya-390747209/)
+- [Email](km9924173@gmail.com)   
+
